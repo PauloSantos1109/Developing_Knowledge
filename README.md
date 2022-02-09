@@ -13,15 +13,23 @@ Praticando conhecimento.(DIO)
 
 # Take Blip Web Developer
 ## Bootcamp Take Blip conhecimentos obtidos.
+![foto](https://hermes.digitalinnovation.one/tracks/995e4a20-0e54-48e9-8e96-f3a581f32ebf.png)
 
-Durante o desenvolvimento criei alguns scritpts praticos ajudar no intendimento da linguagem JavaScript
+Durante o desenvolvimento criei alguns scritpt's práticos ajudar no entendimento da linguagem JavaScript
 
-na raiz desse repositorio irar encontrar os seguintes scripts e projetos.
+Na raiz desse repositório ira encontrar os seguintes scripts e projetos.
 
 ## 1) Dog API:
-Esse projeto carrega imagens de uma API https://random.dog/woof.json que tráz imagens de cachorros aleatorios da internet.
+Esse projeto carrega imagens de uma API https://random.dog/woof.json que trás imagens de cachorros aleatórios da internet.
 
 ## 2) Alunos Aprovados:
-Verifica alunos que tiram nota acima de  um determinado valor.
+Verifica alunos que tiram nota acima de um determinado valor.
 
-## 3) 
+## 3) Palíndromo:
+Verifica se uma palavra é igual lendo de forma inversa.
+
+## 4) Removendo Consoantes:
+Script que pega um texto e remove todas as consoantes dele.
+
+## Login:
+Verifica se a senha e e-mail esta valido dentro do DB.
