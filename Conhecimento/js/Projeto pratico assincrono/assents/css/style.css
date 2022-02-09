@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.master{
+  background: #9393ea;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+main > p{
+  font: 200 50px arial;
+}
+main > .divImg{
+  width: 33.33%;
+  
+
+}
+main > .divImg > .img{
+  width: 500px;
+  height: 400px;
+  margin: 10px 0 10px 0;
+  border-radius: 15px;
+}
+
+main > button{
+  cursor: pointer;
+  width: 200px;
+  height: 50px;
+  border-radius: 15px;
+  border: rgb(87, 77, 77);
+}
+
